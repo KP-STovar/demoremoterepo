@@ -1,1 +1,3 @@
 Max and Rob know where all your data is at.
+
+Marquel has the big picture view of the data architecture.
